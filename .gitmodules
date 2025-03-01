@@ -1,0 +1,3 @@
+[submodule "veera/veera/portfolio"]
+	path = veera/veera/portfolio
+	url = https://github.com/puttiveerababu/portfolio.git
